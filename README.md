@@ -203,10 +203,8 @@
 <br>
 
 </div>
-
+<div align="center">
 <!-- Pixel Art Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=GAME%20SAVED&fontSize=40&fontAlignY=70&animation=twinkling" />
-
-<div align="center">
 
 </div>
