@@ -194,17 +194,13 @@
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="200">
-
 <h3>
   <img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=2000&pause=1000&color=00FF41&center=true&vCenter=true&random=false&width=600&lines=THANKS+FOR+VISITING!;PRESS+START+TO+CONTINUE;LET'S+CODE+SOMETHING+EPIC!" alt="Typing SVG" />
 </h3>
 
 <img src="https://komarev.com/ghpvc/?username=roaa-mamdouh&style=for-the-badge&color=00FF41&label=PLAYERS+VISITED&labelColor=0a0e27" />
 
-<br><br>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="500">
+<br>
 
 </div>
 
@@ -212,7 +208,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=GAME%20SAVED&fontSize=40&fontAlignY=70&animation=twinkling" />
 
 <div align="center">
-  
-### <img src="https://user-images.githubusercontent.com/74038190/216122003-30e3e4f7-0e92-4c9a-b850-73577e51eb5c.png" width="20"> Made with Pixel Perfect Code <img src="https://user-images.githubusercontent.com/74038190/216122003-30e3e4f7-0e92-4c9a-b850-73577e51eb5c.png" width="20">
 
 </div>
