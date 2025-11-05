@@ -47,14 +47,14 @@
 ### 🕹️ QUEST LOG (GitHub Stats)
 
 <!-- GitHub Stats with pixel art theme -->
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=C9D1D9&ring_color=00FF00"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=C9D1D9"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=roaa-mamdouh&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=C9D1D9&ring_color=00FF00"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roaa-mamdouh&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=C9D1D9"/>
 
 <!-- Contribution Snake -->
-![Snake animation](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/roaa-mamdouh/roaa-mamdouh/output/github-contribution-grid-snake-dark.svg)
 
 <!-- Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0D1117&stroke=00FF00&ring=00FF00&fire=FF6B00&currStreakLabel=00FF00&sideNums=C9D1D9&currStreakNum=00FF00&sideLabels=00FF00" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=roaa-mamdouh&theme=radical&hide_border=true&background=0D1117&stroke=00FF00&ring=00FF00&fire=FF6B00&currStreakLabel=00FF00&sideNums=C9D1D9&currStreakNum=00FF00&sideLabels=00FF00" alt="GitHub Streak"/>
 
 </div>
 
@@ -147,7 +147,7 @@
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FF00&line=00FF00&point=FFFFFF&area=true&area_color=00FF00)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=roaa-mamdouh&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FF00&line=00FF00&point=FFFFFF&area=true&area_color=00FF00)
 
 </div>
 
@@ -180,7 +180,7 @@
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7&rank=SSS,SS,S,AAA,AA,A,B,C)
+![Trophies](https://github-profile-trophy.vercel.app/?username=roaa-mamdouh&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7&rank=SSS,SS,S,AAA,AA,A,B,C)
 
 </div>
 
@@ -263,9 +263,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/roaa-mamdouh/roaa-mamdouh/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/roaa-mamdouh/roaa-mamdouh/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/roaa-mamdouh/roaa-mamdouh/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
@@ -279,7 +279,7 @@
 
 ### 👁️ VISITOR COUNT
 
-![Visitor Count](https://profile-counter.glitch.me/YOUR_USERNAME/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/roaa-mamdouh/count.svg)
 
 ```
     _______________________________________________
