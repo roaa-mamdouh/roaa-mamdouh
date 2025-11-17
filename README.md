@@ -88,8 +88,6 @@
 
 ### ⚔️ SKILL TREE ⚔️
 
-<img src="https://skillicons.dev/icons?i=python,javascript,html,css,mysql,postgres,redis,nginx,docker,git,linux,vscode,github,bash,vim&perline=8&theme=dark" />
-
 </div>
 
 <div align="center">
@@ -117,10 +115,6 @@
 </td>
 </tr>
 <tr>
-<td align="center">
-<img height="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png">
-<br><strong>VS Code</strong>
-</td>
 <td align="center">
 <img height="50" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png">
 <br><strong>Docker</strong>
