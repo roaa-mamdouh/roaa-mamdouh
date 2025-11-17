@@ -104,10 +104,6 @@
 <br><strong>JavaScript</strong>
 </td>
 <td align="center">
-<img height="50" src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png">
-<br><strong>Frappe</strong>
-</td>
-<td align="center">
 <img height="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png">
 <br><strong>MySQL</strong>
 </td>
