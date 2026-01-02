@@ -1,200 +1,205 @@
 <div align="center">
 
-<!-- Animated Pixel Art Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=GAME%20START&fontSize=50&fontAlignY=30&animation=twinkling" />
+<!-- Pixel Art Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,19,24&height=180&section=header&text=&fontSize=0" />
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/images/pixelated/pixel-art-1.gif" width="800">
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=60&duration=2500&pause=800&color=0EC9B8&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=80&lines=%3E_+ROAA+MAMDOUH" alt="Terminal Name" />
+
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&duration=2000&pause=500&color=5EEAD4&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=60&lines=FRAPPE+DEVELOPER;" alt="Typing SVG" />
 
 </div>
 
-<img align="left" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="45">
-<img align="left" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="45">
-<img align="left" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="45">
+<!-- Pixel Art Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=50&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=120&lines=SELECT+YOUR+CHARACTER;%3E+FRAPPE+DEVELOPER;%3E+CODE+ARCHITECT;%3E+BUG+SLAYER" alt="Typing SVG" />
-</h1>
+<br>
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="45">
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="45">
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="45">
+```
+┌──────────────────────────────────────────────────────────────────────────────┐
+│                                                                              │
+│   $ whoami                                                                   │
+│   > Frappe Developer crafting ERPNext solutions & custom business apps       │
+│                                                                              │
+└──────────────────────────────────────────────────────────────────────────────┘
+```
+
+<br>
+
+<!-- Pixel Art Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<br>
+
+## <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="30" /> &nbsp;TECH STACK
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="140">
+<img src="https://raw.githubusercontent.com/frappe/frappe/develop/frappe/public/images/frappe-framework-logo.svg" height="50" alt="Frappe"/>
+<br><strong>Frappe</strong>
+<br><sub>Framework</sub>
+</td>
+<td align="center" width="140">
+<img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" height="50" alt="Python"/>
+<br><strong>Python</strong>
+<br><sub>Backend</sub>
+</td>
+<td align="center" width="140">
+<img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" height="50" alt="JavaScript"/>
+<br><strong>JavaScript</strong>
+<br><sub>Frontend</sub>
+</td>
+<td align="center" width="140">
+<img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" height="50" alt="MySQL"/>
+<br><strong>MySQL</strong>
+<br><sub>Database</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="140">
+<img src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" height="50" alt="PostgreSQL"/>
+<br><strong>PostgreSQL</strong>
+<br><sub>Database</sub>
+</td>
+<td align="center" width="140">
+<img src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" height="50" alt="MongoDB"/>
+<br><strong>MongoDB</strong>
+<br><sub>NoSQL</sub>
+</td>
+<td align="center" width="140">
+<img src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" height="50" alt="Docker"/>
+<br><strong>Docker</strong>
+<br><sub>DevOps</sub>
+</td>
+<td align="center" width="140">
+<img src="https://user-images.githubusercontent.com/25181517/183868728-b2e11072-00a5-47e2-8a4e-4ebbb2b8c554.png" height="50" alt="CI/CD"/>
+<br><strong>Linux</strong>
+<br><sub>Server</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
+
+<!-- Pixel Art Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<br>
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="28" /> &nbsp;ANALYTICS
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=roaa-mamdouh&show_icons=true&hide_border=true&bg_color=0d1117&title_color=0EC9B8&icon_color=5EEAD4&text_color=c9d1d9&ring_color=0EC9B8&include_all_commits=true&count_private=true" width="100%" />
+
+</td>
+<td width="50%">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=roaa-mamdouh&hide_border=true&background=0d1117&stroke=0EC9B8&ring=0EC9B8&fire=FF6B6B&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=0EC9B8&sideLabels=5EEAD4&dates=5EEAD4" width="100%" />
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=roaa-mamdouh&bg_color=0d1117&color=0EC9B8&line=5EEAD4&point=c9d1d9&area=true&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY" width="100%" />
+
+</div>
+
+<br>
+
+<!-- Pixel Art Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<br>
+
+## <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="28"> &nbsp;EXPERTISE
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║   ████████████████████████████████░░░░░░░░░░   FRAPPE/ERPNEXT    ████  85%   ║
+║   ██████████████████████████████░░░░░░░░░░░░   PYTHON            ████  80%   ║
+║   ████████████████████████████░░░░░░░░░░░░░░   DATABASE DESIGN   ████  75%   ║
+║   ██████████████████████████░░░░░░░░░░░░░░░░   JAVASCRIPT        ████  70%   ║
+║   ████████████████████████░░░░░░░░░░░░░░░░░░   DOCKER/DEVOPS     ████  65%   ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
+
+<br>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roaa-mamdouh&layout=compact&hide_border=true&bg_color=0d1117&title_color=0EC9B8&text_color=c9d1d9&langs_count=8" />
+
+</div>
+
+<br>
+
+<!-- Pixel Art Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<br>
+
+## <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="28"> &nbsp;HIGHLIGHTS
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=roaa-mamdouh&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" width="100%" />
+
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=roaa-mamdouh&theme=github_dark" width="100%" />
+
+</div>
+
+<br>
+
+<!-- Pixel Art Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<br>
+
+## <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="28"> &nbsp;CONNECT
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/roaa-mamdouh-127771289/">
+  <img src="https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=0EC9B8" />
+</a>
+&nbsp;
+<a href="mailto:roaaabdelhadyy@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-0d1117?style=for-the-badge&logo=gmail&logoColor=0EC9B8" />
+</a>
 
 <br><br>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-</div>
-
-<!-- Pixel Art Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<br>
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="30" /> STATS
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=roaa-mamdouh&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0a0e27&title_color=7FFF00&icon_color=39FF14&text_color=ADFF2F&ring_color=7FFF00&fire=FF6347&include_all_commits=true&count_private=true" width="100%" />
-
-</td>
-<td width="50%">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=roaa-mamdouh&theme=chartreuse-dark&hide_border=true&background=0a0e27&stroke=7FFF00&ring=7FFF00&fire=FF6347&currStreakNum=ADFF2F&sideNums=ADFF2F&currStreakLabel=7FFF00&sideLabels=7FFF00&dates=39FF14" width="100%" />
-
-</td>
-</tr>
-</table>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=roaa-mamdouh&bg_color=0a0e27&color=7FFF00&line=39FF14&point=ADFF2F&area=true&hide_border=true&custom_title=EXPERIENCE%20POINTS%20GAINED" width="100%" />
-
-</div>
-
-<!-- Pixel Art Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+```
+┌──────────────────────────────────────────────────────────────────────────────┐
+│                                                                              │
+│   $ echo "Let's build something amazing together"                            │
+│   > Open for collaborations on Frappe/ERPNext projects                       │
+│                                                                              │
+└──────────────────────────────────────────────────────────────────────────────┘
+```
 
 <br>
 
-## <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="30"> CHARACTER CLASS
-
-<div align="center">
-<table>
-<tr>
-<td width="33%" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100"><br>
-<sub><b>FRAPPE WIZARD</b></sub><br>
-<img src="https://skillicons.dev/icons?i=python,js&theme=dark" />
-</td>
-<td width="33%" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="100"><br>
-<sub><b>DATABASE KNIGHT</b></sub><br>
-<img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" />
-</td>
-<td width="33%" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/229223204-f862f155-2de5-49cf-93bd-78091189b722.gif" width="100"><br>
-<sub><b>DEVOPS IMAGE</b></sub><br>
-<img src="https://skillicons.dev/icons?i=docker,linux&theme=dark" />
-</td>
-</tr>
-</table>
-</div>
-
-<br>
-
-<div align="center">
-
-### ⚔️ SKILL TREE ⚔️
-
-</div>
-
-<div align="center">
-<table>
-<tr>
-<td align="center">
-<img height="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png">
-<br><strong>Python</strong>
-</td>
-<td align="center">
-<img height="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png">
-<br><strong>JavaScript</strong>
-</td>
-<td align="center">
-<img height="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png">
-<br><strong>MySQL</strong>
-</td>
-<td align="center">
-<img height="50" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png">
-<br><strong>PostgreSQL</strong>
-</td>
-<td align="center">
-<img height="50" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png">
-<br><strong>MongoDB</strong>
-</td>
-</tr>
-<tr>
-<td align="center">
-<img height="50" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png">
-<br><strong>Docker</strong>
-</td>
-</tr>
-</table>
-</div>
-
-<!-- Pixel Art Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<br>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> POWER LEVEL
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roaa-mamdouh&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0a0e27&title_color=7FFF00&text_color=ADFF2F&langs_count=8" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=roaa-mamdouh&theme=matrix&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15&rank=SSS,SS,S,AAA,AA,A,B,C" width="100%" />
-
-</div>
-
-<!-- Pixel Art Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-
-<br>
-
-<!-- Pixel Art Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<br>
-
-## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30"> Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-00FF41?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0e27)]((https://www.linkedin.com/in/roaa-mamdouh-127771289/))
-[![Email](https://img.shields.io/badge/EMAIL-SEND-00FF41?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0e27)](mailto:roaaabdelhadyy@gmail.com)
+<img src="https://komarev.com/ghpvc/?username=roaa-mamdouh&style=for-the-badge&color=0EC9B8&label=PROFILE+VIEWS&labelColor=0d1117" />
 
 </div>
 
 <br>
 
-<!-- Pixel Art Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<br>
-
-## <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="30"> ACHIEVEMENT SHOWCASE
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=roaa-mamdouh&theme=chartreuse_dark" width="100%" />
-
-</div>
-
-<br>
-
-<!-- Pixel Art Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<br>
-
-## 🎮 GAME OVER... OR IS IT?
-
-<div align="center">
-
-<h3>
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=2000&pause=1000&color=00FF41&center=true&vCenter=true&random=false&width=600&lines=THANKS+FOR+VISITING!;PRESS+START+TO+CONTINUE;LET'S+CODE+SOMETHING+EPIC!" alt="Typing SVG" />
-</h3>
-
-<img src="https://komarev.com/ghpvc/?username=roaa-mamdouh&style=for-the-badge&color=00FF41&label=PLAYERS+VISITED&labelColor=0a0e27" />
-
-<br>
-
-</div>
-<div align="center">
 <!-- Pixel Art Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=GAME%20SAVED&fontSize=40&fontAlignY=70&animation=twinkling" />
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,19,24&height=120&section=footer" />
