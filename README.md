@@ -14,7 +14,7 @@
 <br>
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=30&duration=2500&pause=800&color=0EC9B8&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=80&lines=%3E_+ROAA+MAMDOUH" alt="Terminal Name" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=22&duration=2000&pause=500&color=FF6B9D&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=70&lines=Frappe+Developer;Building+Enterprise+Solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=22&duration=2000&pause=500&color=FF6B9D&center=true&vCenter=true&multiline=true&repeat=true&width=550&height=70&lines=Frappe+Developer+%7C+AI+Automation;Building+Intelligent+Business+Systems" alt="Typing SVG" />
 
 <br>
 
@@ -29,13 +29,13 @@
 <div align="center">
 
 ```
-╭────────────────────────────────────────────────────────────╮
-│                                                            │
-│   ⚡ Backend Architecture    ⚡ Database Design              │
-│   ⚡ API Development         ⚡ Process Automation           │
-│   ⚡ ERPNext Customization   ⚡ Business Solutions           │
-│                                                            │
-╰────────────────────────────────────────────────────────────╯
+╭───────────────────────────────────────────────────────────────╮
+│                                                               │
+│   ⚡ AI Workflow Automation  ⚡ Voice AI Integration         │
+│   ⚡ API Development         ⚡ CRM Systems                  │
+│   ⚡ ERPNext Customization   ⚡ Business Process Automation  │
+│                                                               │
+╰───────────────────────────────────────────────────────────────╯
 ```
 
 </div>
@@ -81,12 +81,12 @@
 <br><b>Frappe</b>
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-<br><b>PostgreSQL</b>
+<img src="https://n8n.io/favicon.ico" width="48" height="48" alt="n8n" />
+<br><b>n8n</b>
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-<br><b>MongoDB</b>
+<img src="https://www.svgrepo.com/show/306500/openai.svg" width="48" height="48" alt="OpenAI" />
+<br><b>OpenAI</b>
 </td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
@@ -97,7 +97,61 @@
 <br><b>Redis</b>
 </td>
 </tr>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+<br><b>PostgreSQL</b>
+</td>
+<td align="center" width="96">
+<img src="https://www.vectorlogo.zone/logos/twilio/twilio-icon.svg" width="48" height="48" alt="Twilio" />
+<br><b>Twilio</b>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue.js" />
+<br><b>Vue.js</b>
+</td>
+<td align="center" width="96">
+<img src="https://www.svgrepo.com/show/353735/firebase.svg" width="48" height="48" alt="Firebase" />
+<br><b>Firebase</b>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+<br><b>MongoDB</b>
+</td>
+</tr>
 </table>
+
+</div>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<br>
+
+<div align="center">
+
+## <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="30" /> Featured Project
+
+<br>
+
+<a href="https://github.com/roaa-mamdouh/voice-ai-crm">
+  <img src="https://img.shields.io/badge/🤖_Voice_AI_+_CRM_Integration-FF6B9D?style=for-the-badge&logoColor=white" />
+</a>
+
+<br><br>
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│  AI Voice Agent System                                      │
+│                                                             │
+│  ► Retell AI + n8n + Frappe CRM                             │
+│  ► Automated Lead Qualification                             │
+│  ► Real-time Appointment Booking                            │
+│  ► 7 Interconnected Workflows                               │
+│  ► Multi-channel Notifications                              │
+└─────────────────────────────────────────────────────────────┘
+```
 
 </div>
 
@@ -123,7 +177,7 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=14&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=500&lines=%E2%9C%A8+Open+for+Frappe+%26+ERPNext+collaborations+%E2%9C%A8" alt="Collab" />
+<img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=14&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=%E2%9C%A8+Open+for+AI+Automation+%26+Frappe%2FERPNext+collaborations+%E2%9C%A8" alt="Collab" />
 
 <br><br>
 
